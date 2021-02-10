@@ -1,5 +1,5 @@
 {
-  "name": "CiCd",
+  "name": "cicd",
   "version": "1.0.0",
   "description": "",
   "main": "test.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/csiszaralex/CiCdTeszt/issues"
   },
-  "homepage": "https://github.com/csiszaralex/CiCdTeszt#readme"
+  "homepage": "https://github.com/csiszaralex/CiCdTeszt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
